@@ -7,7 +7,7 @@ cannot use additional data structures?
 def isUnq(s):
     print(len(set(s)) == len(s))
 
-#kinda messy
+#kinda mess
 def isUnqq(s):
     for c in s:
         cnt = 0
